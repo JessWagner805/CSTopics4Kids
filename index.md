@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Quantum Computing
 layout: home
 ---
 
