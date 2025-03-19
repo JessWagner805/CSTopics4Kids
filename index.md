@@ -5,6 +5,9 @@ layout: home
 
 ![MazeNoSolution](https://github.com/user-attachments/assets/9a648135-2455-4c10-835f-4e88c5b4ee76)
 
+![MazeNoSolution1](https://github.com/user-attachments/assets/6cb5b8b6-f534-4d68-82ae-12ee3f60995c)
+
+
 – the [README] file explains how to do that, along with other details.
 
 
