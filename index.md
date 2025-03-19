@@ -5,6 +5,8 @@ layout: home
 
 ![MazeNoSolution](https://github.com/user-attachments/assets/9a648135-2455-4c10-835f-4e88c5b4ee76)
 
+![MazeNoSolution0](https://github.com/user-attachments/assets/ec16d53a-2428-47ca-a76d-2c68fab755ea)
+
 ![MazeNoSolution1](https://github.com/user-attachments/assets/6cb5b8b6-f534-4d68-82ae-12ee3f60995c)
 
 ![MazeNoSolution2](https://github.com/user-attachments/assets/a48e81c1-e7a2-40d5-9c96-ddf6915b697c)
