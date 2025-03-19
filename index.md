@@ -5,10 +5,10 @@ layout: home
 
 # **Quantum Computing**
 
-\n ## Maze Problem 🧩
-\n
 
-Think about how you would solve this maze.
+## Maze Problem 🧩
+
+Before diving into the idea of ***quantum computing***, think about how you would solve this maze.
 
 ![MazeNoSolution](https://github.com/user-attachments/assets/9a648135-2455-4c10-835f-4e88c5b4ee76)
 
@@ -32,19 +32,23 @@ However, with quantum computing...
 
 ![MazeNoSolutionQuantumComputing](https://github.com/user-attachments/assets/da885acd-500b-4d1a-954a-3f6f4ed0498a)
 
+_______________________________________________________________________________________________________________________________________________
+
 ## What exactly is quantum computing? 🖥️
-`
-`
+
+
+_______________________________________________________________________________________________________________________________________________
 
 ## How does it work? 🤔
-`\n`
+
+
+_______________________________________________________________________________________________________________________________________________
 
 ## The future 🚀   
-`\n`
 
 
-– the [README] file explains how to do that, along with other details.
 
+– Description: [README]
 
 ----
 
