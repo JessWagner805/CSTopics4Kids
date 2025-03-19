@@ -33,7 +33,8 @@ However, with quantum computing...
 ![MazeNoSolutionQuantumComputing](https://github.com/user-attachments/assets/da885acd-500b-4d1a-954a-3f6f4ed0498a)
 
 ## What exactly is quantum computing? 🖥️
-`  `
+`
+`
 
 ## How does it work? 🤔
 `\n`
