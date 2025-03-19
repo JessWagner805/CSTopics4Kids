@@ -5,7 +5,7 @@ layout: home
 
 # Quantum Computing
 
-### Maze Problem
+## Maze Problem
 
 Think about how you would solve this maze.
 
