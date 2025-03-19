@@ -11,6 +11,8 @@ layout: home
 
 ![MazeNoSolution2](https://github.com/user-attachments/assets/a48e81c1-e7a2-40d5-9c96-ddf6915b697c)
 
+![MazeSolution](https://github.com/user-attachments/assets/34fa7a46-7e3b-402e-b62d-ac3f325c409e)
+
 ![MazeNoSolutionQuantumComputing](https://github.com/user-attachments/assets/da885acd-500b-4d1a-954a-3f6f4ed0498a)
 
 
