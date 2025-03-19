@@ -4,4 +4,7 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
-aux_links:
+just_the_docs:
+  auxiliary_links:
+  color_scheme: custom
+
