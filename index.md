@@ -12,7 +12,7 @@ Before diving into the idea of *quantum computing*, think about how you would so
 
 ![MazeNoSolution](https://github.com/user-attachments/assets/9a648135-2455-4c10-835f-4e88c5b4ee76)
 
-For most people, you would try one route, fail, and then try again.
+For most people, you would try one path, fail, go back, and try again.
 
 ![MazeNoSolution0](https://github.com/user-attachments/assets/ec16d53a-2428-47ca-a76d-2c68fab755ea)
 
@@ -28,7 +28,7 @@ Until eventually, you have found a solution.
 
 ![MazeSolution](https://github.com/user-attachments/assets/34fa7a46-7e3b-402e-b62d-ac3f325c409e)
 
-However, with quantum computing...
+But what if, instead of trying one path at a time, you could try *every* path *all at once*? 
 
 ![MazeNoSolutionQuantumComputing](https://github.com/user-attachments/assets/da885acd-500b-4d1a-954a-3f6f4ed0498a)
 
