@@ -5,7 +5,7 @@ layout: home
 
 # **Quantum Computing**
 
-## Maze Problem 🧩
+\n ## Maze Problem 🧩
 \n
 
 Think about how you would solve this maze.
