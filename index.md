@@ -12,7 +12,7 @@ Before diving into the idea of *quantum computing*, think about how you would so
 
 ![MazeNoSolution](https://github.com/user-attachments/assets/9a648135-2455-4c10-835f-4e88c5b4ee76)
 
-For most people, you would try one path, fail, go back, and try again.
+For most people, you would try one path, fail, go back, and then try again.
 
 ![MazeNoSolution0](https://github.com/user-attachments/assets/ec16d53a-2428-47ca-a76d-2c68fab755ea)
 
