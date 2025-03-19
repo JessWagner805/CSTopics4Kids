@@ -1,9 +1,10 @@
----
+![MazeNoSolution](https://github.com/user-attachments/assets/578bda0c-cfad-4cd0-8a28-80751e04c73b)---
 title: Quantum Computing
 layout: home
 ---
 
-![image](https://github.com/user-attachments/assets/f0108a38-238f-409a-ad42-8ce06bcc8e56)
+![MazeNoSolution](https://github.com/user-attachments/assets/a4a1d66f-271d-4665-9be5-24aa75f8eadb)
+
 
 – the [README] file explains how to do that, along with other details.
 
