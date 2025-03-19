@@ -3,7 +3,7 @@ title: Quantum Computing
 layout: home
 ---
 
-![MazeNoSolution](https://github.com/user-attachments/assets/0d5be9f8-a413-47a0-8322-021fa145409c)
+![MazeNoSolution](https://github.com/user-attachments/assets/9a648135-2455-4c10-835f-4e88c5b4ee76)
 
 – the [README] file explains how to do that, along with other details.
 
