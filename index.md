@@ -8,7 +8,7 @@ layout: home
 
 ## Maze Problem 🧩
 
-Before diving into the idea of ***quantum computing***, think about how you would solve this maze.
+Before diving into the idea of *quantum computing*, think about how you would solve this maze.
 
 ![MazeNoSolution](https://github.com/user-attachments/assets/9a648135-2455-4c10-835f-4e88c5b4ee76)
 
