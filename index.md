@@ -64,11 +64,11 @@ ________________________________________________________________________________
 
    <br/>
 
-[REPOSITORY]
+[CSTopics4Kids - GitHub Repository]
 
 ----
 
 [Maze Visualization]: https://youtube.com/shorts/JbkuqnqDKnE?si=6xV3VrsKE9a8E5w9
 [GeeksforGeeks - Introduction to Quantum Computing]: https://www.geeksforgeeks.org/introduction-quantum-computing/
 [CS Topics 4 Kids]: https://just-the-docs.github.io/just-the-docs/
-[REPOSITORY]: https://github.com/JessWagner805/CSTopics4Kids
+[CSTopics4Kids - GitHub Repository]: https://github.com/JessWagner805/CSTopics4Kids
