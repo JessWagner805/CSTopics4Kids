@@ -24,7 +24,7 @@ and again......
 
 ![MazeNoSolution2](https://github.com/user-attachments/assets/a48e81c1-e7a2-40d5-9c96-ddf6915b697c)
 
-Until eventually, you have found a solution.
+Until eventually, you have found a solution. <br/>
 Although you have found a solution, it took a lot of time because you could only try *one* path at a time.
 
 ![MazeSolution](https://github.com/user-attachments/assets/34fa7a46-7e3b-402e-b62d-ac3f325c409e)
@@ -58,12 +58,14 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________
 
 ## Resources
-- [Maze Visualization] (https://www.bing.com/videos/riverview/relatedvideo?q=maze+quantum+computing&&mid=3CD8E3593D00043A2F3C3CD8E3593D00043A2F3C&&mmscn=stvo&FORM=VRDGAR)
-- [GeeksforGeeks | Introduction to Quantum Computing] (https://www.geeksforgeeks.org/introduction-quantum-computing/)
+- [Maze Visualization]
+- [GeeksforGeeks | Introduction to Quantum Computing]
 
 – Description: [README]
 
 ----
 
+[Maze Visualization]: https://www.bing.com/videos/riverview/relatedvideoq=maze+quantum+computing&&mid=3CD8E3593D00043A2F3C3CD8E3593D00043A2F3C&&mmscn=stvo&FORM=VRDGAR
+[GeeksforGeeks | Introduction to Quantum Computing]: https://www.geeksforgeeks.org/introduction-quantum-computing/
 [CS Topics 4 Kids]: https://just-the-docs.github.io/just-the-docs/
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
