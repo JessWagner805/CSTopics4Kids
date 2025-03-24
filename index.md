@@ -56,7 +56,7 @@ When a programmer writes code, it gets converted to a series of **1**s and **0**
 
 While a bit is either a 1 or a 0, a quibit can be *both* a 1 and a 0 at the same exact time!
 
-![BitVsQuibit](https://github.com/user-attachments/assets/5f36c0ab-4fd9-4561-9b47-3a82987c132f)
+![BitVsQuibit](https://github.com/user-attachments/assets/039d1258-d029-4220-ad2d-b0c5827cbb2c)
 
 _______________________________________________________________________________________________________________________________________________
 
