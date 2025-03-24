@@ -1,5 +1,5 @@
-### CSTopics4Kids
-## * By: Jess Wagner *
+# CSTopics4Kids
+## *** By: Jess Wagner ***
 
 # just-the-docs-template
 
