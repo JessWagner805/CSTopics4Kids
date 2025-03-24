@@ -1,4 +1,5 @@
 # CSTopics4Kids (*By: Jess Wagner*)
+[Webpage Link] <br/>   
 This webpage is part of an assignment for a research writing course I am taking. Built using the **just-the-docs-template**, it aims to present complex topics in computer science in a more accessible manner for non-expert audiences.
 _______________________________________________________________________________________________________________________________________________
 ### just-the-docs-template
@@ -20,6 +21,7 @@ The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party 
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
+[Webpage Link]: https://jesswagner805.github.io/CSTopics4Kids/
 [Jekyll]: https://jekyllrb.com
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
