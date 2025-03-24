@@ -40,11 +40,14 @@ ________________________________________________________________________________
 
 ## What exactly is quantum computing? 🖥️
 
+Unlike regular computers that preform tasks step-by-step, quantum computers can preform multiple tasks at the same time. This makes them ***incredibly fast***. Because of this, quantum computers can solve problems that regular computers can’t, opening up new possibilities for fields like medicine, science, and technology. <br/>
+Though some quantum computers exist, they’re still in the early stages of development. Companies such as Google, Microsoft, and IBM are working hard to advance this technology.
 
 _______________________________________________________________________________________________________________________________________________
 
 ## How does it work? 🤔
 
+- Quibits vs bits (coin example)
 
 _______________________________________________________________________________________________________________________________________________
 
