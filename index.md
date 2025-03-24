@@ -61,8 +61,10 @@ ________________________________________________________________________________
 ## Resources
 - [Maze Visualization]
 - [GeeksforGeeks - Introduction to Quantum Computing]
+
    <br/>
-– [REPOSITORY]
+
+[REPOSITORY]
 
 ----
 
