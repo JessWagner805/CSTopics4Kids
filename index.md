@@ -29,9 +29,7 @@ Although this strategy worked, it took a lot of time because you could only try 
 
 ![MazeSolution](https://github.com/user-attachments/assets/34fa7a46-7e3b-402e-b62d-ac3f325c409e)
 
-   <br/>
-
-But imagine if, instead of trying one path at a time, you could try *every* path *all at once*? 
+⭐ But imagine if, instead of trying one path at a time, you could try *every* path *all at once*? ⭐
 
 ![MazeNoSolutionQuantumComputing](https://github.com/user-attachments/assets/da885acd-500b-4d1a-954a-3f6f4ed0498a)
 
