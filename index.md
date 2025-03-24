@@ -3,7 +3,7 @@ title: Quantum Computing
 layout: home
 ---
 
-# **Quantum Computing**
+# <ins> **Quantum Computing** </ins>
 
 
 ## Maze Problem 🧩
