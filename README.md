@@ -1,5 +1,4 @@
-# CSTopics4Kids
-## *By: Jess Wagner*
+# CSTopics4Kids (*By: Jess Wagner*)
 This webpage is part of an assignment for a research writing course I am taking. Built using the **just-the-docs-template**, it aims to present complex topics in computer science in a more accessible manner for non-expert audiences.
 
 ### just-the-docs-template
