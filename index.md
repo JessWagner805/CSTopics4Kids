@@ -47,12 +47,19 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________________
 
+## Pros & Cons ✨
+
+
+_______________________________________________________________________________________________________________________________________________
+
 ## The future 🚀   
+
 
 _______________________________________________________________________________________________________________________________________________
 
 ## Resources
-[Maze Visualization] (https://www.bing.com/videos/riverview/relatedvideo?q=maze+quantum+computing&&mid=3CD8E3593D00043A2F3C3CD8E3593D00043A2F3C&&mmscn=stvo&FORM=VRDGAR)
+- [Maze Visualization] (https://www.bing.com/videos/riverview/relatedvideo?q=maze+quantum+computing&&mid=3CD8E3593D00043A2F3C3CD8E3593D00043A2F3C&&mmscn=stvo&FORM=VRDGAR)
+- [GeeksforGeeks | Introduction to Quantum Computing] (https://www.geeksforgeeks.org/introduction-quantum-computing/)
 
 – Description: [README]
 
