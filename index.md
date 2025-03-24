@@ -33,7 +33,7 @@ Although this strategy works, it takes a lot of time because you can only try *o
 
 ![MazeNoSolutionQuantumComputing](https://github.com/user-attachments/assets/da885acd-500b-4d1a-954a-3f6f4ed0498a)
 
-Regular computers solve problems like we did with the maze. They are given instructions by a programmer, and they follow these instructions step-by-step until they reach a solution. <br/>
+Regular computers solve problems similar to how we did with the maze. They are given instructions by a programmer, and they follow these instructions step-by-step until they reach a solution. <br/>
 Quantum computers, on the other hand, can perform every step at the same time, reaching a solution much faster!
 
 _______________________________________________________________________________________________________________________________________________
