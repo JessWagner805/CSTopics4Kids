@@ -1,6 +1,6 @@
 # CSTopics4Kids (*By: Jess Wagner*)
 This webpage is part of an assignment for a research writing course I am taking. Built using the **just-the-docs-template**, it aims to present complex topics in computer science in a more accessible manner for non-expert audiences.
-
+_______________________________________________________________________________________________________________________________________________
 ### just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
@@ -9,7 +9,7 @@ This is a *bare-minimum* template to create a [Jekyll] site that:
 - can be built and published on [GitHub Pages];
 - can be built and previewed locally, and published on other platforms.
 
-
+_______________________________________________________________________________________________________________________________________________
 ### Licensing and Attribution
 
 This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
