@@ -59,7 +59,7 @@ ________________________________________________________________________________
 
 ## Resources
 - [Maze Visualization]
-- [GeeksforGeeks | Introduction to Quantum Computing]
+- [GeeksforGeeks - Introduction to Quantum Computing]
 
 – Description: [README]
 
