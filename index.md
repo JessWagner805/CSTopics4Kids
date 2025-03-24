@@ -25,7 +25,7 @@ and again......
 ![MazeNoSolution2](https://github.com/user-attachments/assets/a48e81c1-e7a2-40d5-9c96-ddf6915b697c)
 
 Until eventually, you have found a solution. <br/>
-Although you have found a solution, it took a lot of time because you could only try *one* path at a time.
+Although this strategy worked, it took a lot of time because you could only try *one* path at a time.
 
 ![MazeSolution](https://github.com/user-attachments/assets/34fa7a46-7e3b-402e-b62d-ac3f325c409e)
 
@@ -33,7 +33,8 @@ But imagine if, instead of trying one path at a time, you could try *every* path
 
 ![MazeNoSolutionQuantumComputing](https://github.com/user-attachments/assets/da885acd-500b-4d1a-954a-3f6f4ed0498a)
 
-Regular computers solve problems like we did with the maze. They are given instructions by a programmer, and they follow these instructions step-by-step until they reached a solution. Quantum computers, on the other hand, can perform every step at the same time, reaching a solution much faster!
+Regular computers solve problems like we did with the maze. They are given instructions by a programmer, and they follow these instructions step-by-step until they reach a solution. <br/>
+Quantum computers, on the other hand, can perform every step at the same time, reaching a solution much faster!
 
 _______________________________________________________________________________________________________________________________________________
 
