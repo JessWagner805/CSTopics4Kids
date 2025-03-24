@@ -66,6 +66,6 @@ ________________________________________________________________________________
 ----
 
 [Maze Visualization]: https://www.bing.com/videos/riverview/relatedvideoq=maze+quantum+computing&&mid=3CD8E3593D00043A2F3C3CD8E3593D00043A2F3C&&mmscn=stvo&FORM=VRDGAR
-[GeeksforGeeks | Introduction to Quantum Computing]: https://www.geeksforgeeks.org/introduction-quantum-computing/
+[GeeksforGeeks - Introduction to Quantum Computing]: https://www.geeksforgeeks.org/introduction-quantum-computing/
 [CS Topics 4 Kids]: https://just-the-docs.github.io/just-the-docs/
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
