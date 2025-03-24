@@ -25,7 +25,7 @@ and again......
 ![MazeNoSolution2](https://github.com/user-attachments/assets/a48e81c1-e7a2-40d5-9c96-ddf6915b697c)
 
 Until eventually, you have found a solution. <br/>
-Although this strategy worked, it took a lot of time because you could only try *one* path at a time.
+Although this strategy works, it takes a lot of time because you can only try *one* path at a time.
 
 ![MazeSolution](https://github.com/user-attachments/assets/34fa7a46-7e3b-402e-b62d-ac3f325c409e)
 
