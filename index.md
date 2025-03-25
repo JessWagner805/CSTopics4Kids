@@ -44,6 +44,8 @@ Unlike regular computers that preform tasks step-by-step, quantum computers can 
 Because of this, quantum computers can solve problems that regular computers can’t, opening up new possibilities for fields like medicine, science, and technology. <br/>
 Though some quantum computers exist, they’re still in the early stages of development. Companies such as Google, Microsoft, and IBM are working hard to advance this technology.
 
+![image](https://github.com/user-attachments/assets/1b1e2a88-7913-4ba6-9e80-8ae967ca1549)
+
 _______________________________________________________________________________________________________________________________________________
 
 ## How does it work? 🤔
