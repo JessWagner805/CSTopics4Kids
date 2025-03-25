@@ -62,6 +62,10 @@ While a bit is either a 1 or a 0, a ***quibit*** can be *both* a 1 and a 0 at th
 
 _______________________________________________________________________________________________________________________________________________
 
+## How can a quibit be *both* a 1 *AND* a 0 *at the same time?*
+
+_______________________________________________________________________________________________________________________________________________
+
 ## Pros & Cons ✨
 
 **PROS ✅**
@@ -72,7 +76,7 @@ ________________________________________________________________________________
 
 **CONS ❌**
 - ***💲Cost:*** Building and maintaining quantum computers is very expensive because they require special materials and highly skilled workers.
-- ***⚡Electricity:*** Quantum computers use a lot of energy, making them bad for the environment.
+- ***⚡Electricity:*** Quantum computers use a lot of energy, making them bad for the environment. This is because energy is produced by burning fossil fuels, a process which releases harmful gases into the atmosphere.
 - ***⚠️ Sensitivity:*** Quantum computers are very sensitive to environmental disturbances such as noise. This increases the risk of mistakes.
 - ***🛠️ Fixing Errors:*** Mistakes are hard to find and fix with quantum computers due to their size and complexity.
 
