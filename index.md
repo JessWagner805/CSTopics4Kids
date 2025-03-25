@@ -65,21 +65,22 @@ ________________________________________________________________________________
 ## Pros & Cons ✨
 
 **PROS ✅**
-- 🏃‍♀️ ***Speed:*** Quantum computers perform tasks A LOT faster than regular computers
-- 🔐 ***Cracking Codes:*** Quantum computers could crack many codes that are currently used to keep data hidden
-- 🛡️ ***Security:*** Quantum computers could create even stronger codes that are much harder for hackers to break
-- 🔬 ***New Discoveries:*** Quantum computing could lead to breakthroughs in medicine, mathematics, engineering, and more
+- 🏃‍♀️ ***Speed:*** Quantum computers perform tasks A LOT faster than regular computers.
+- 🔐 ***Cracking Codes:*** Quantum computers could crack many codes that are currently used to keep data hidden.
+- 🛡️ ***Security:*** Quantum computers could create even stronger codes that are much harder for hackers to break.
+- 🔬 ***New Discoveries:*** Quantum computing could lead to breakthroughs in medicine, mathematics, engineering, and more.
 
 **CONS ❌**
-- ***💲Cost:*** Building and maintaining quantum computers is very expensive because they require special materials and highly skilled workers
-- ***⚡Electricity:*** Quantum computers use a lot of energy, making them bad for the environment
-- ***⚠️ Sensitivity:*** Quantum computers are very sensitive to environmental disturbances such as noise. This increases the risk of mistakes
-- ***🛠️ Fixing Errors:*** Mistakes are hard to find and fix with quantum computers due to their size and complexity
+- ***💲Cost:*** Building and maintaining quantum computers is very expensive because they require special materials and highly skilled workers.
+- ***⚡Electricity:*** Quantum computers use a lot of energy, making them bad for the environment.
+- ***⚠️ Sensitivity:*** Quantum computers are very sensitive to environmental disturbances such as noise. This increases the risk of mistakes.
+- ***🛠️ Fixing Errors:*** Mistakes are hard to find and fix with quantum computers due to their size and complexity.
 
 _______________________________________________________________________________________________________________________________________________
 
 ## The future 🚀   
 
+**TO DO**
 
 _______________________________________________________________________________________________________________________________________________
 
