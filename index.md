@@ -1,4 +1,4 @@
----
+![BitVsQuibit](https://github.com/user-attachments/assets/d1a76720-8dc7-4ffe-a5a1-3165df0e0fd6)---
 title: Quantum Computing
 layout: home
 ---
@@ -49,12 +49,12 @@ ________________________________________________________________________________
 ## How does it work? 🤔
 
 What makes quantum computers special is something called ***quibits***. To understand quibits, let's first understand bits. <br/>
-The word ***bit*** is short for *binary digit*. As the name suggests, a bit consists of two digits: 0 and 1. The digit **0** means **off**, and **1** means **on**. Think of a light switch: when the switch is up, it's a **1**, and when it's down, it's a **0**. <br/> 
-When a programmer writes code, it gets converted to a series of **1**s and **0**s. The computer reads these bits and uses them to perform an action.
+The word ***bit*** is short for *binary digit*. As the name suggests, a bit consists of two digits: 0 and 1. The digit **0** means **off**, and **1** means **on**. Think of a light switch: when the switch is up, it's a 1, and when it's down, it's a 0. <br/> 
+When a programmer writes code, it gets converted to a series of 1s and 0s. The computer reads these bits and uses them to perform an action.
 
 ![image](https://github.com/user-attachments/assets/609b73a0-4cbb-46ed-a2a9-95761ea714ce)
 
-While a bit is either a 1 or a 0, a quibit can be *both* a 1 and a 0 at the same exact time!
+While a bit is either a 1 or a 0, a ***quibit*** can be *both* a 1 and a 0 at the same time! This special ability, called ***superposition***, allows qubits to perform many actions at once, instead of doing things step by step like regular bits. These quibits are made up of tiny particles like electrons, photons, and trapped ions. These particles give quibits their ability to be two things at once.
 
 ![BitVsQuibit](https://github.com/user-attachments/assets/88f35226-877f-4d66-b014-1c4432c934a0)
 
