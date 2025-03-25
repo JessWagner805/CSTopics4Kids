@@ -1,3 +1,4 @@
+---
 title: Quantum Computing
 layout: home
 ---
