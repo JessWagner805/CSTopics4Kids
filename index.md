@@ -1,4 +1,3 @@
-![BitVsQuibit](https://github.com/user-attachments/assets/d1a76720-8dc7-4ffe-a5a1-3165df0e0fd6)---
 title: Quantum Computing
 layout: home
 ---
@@ -56,7 +55,7 @@ When a programmer writes code, it gets converted to a series of 1s and 0s. The c
 
 While a bit is either a 1 or a 0, a ***quibit*** can be *both* a 1 and a 0 at the same time! This special ability, called ***superposition***, allows qubits to perform many actions at once, instead of doing things step by step like regular bits. These quibits are made up of tiny particles like electrons, photons, and trapped ions. These particles give quibits their ability to be two things at once.
 
-![BitVsQuibit](https://github.com/user-attachments/assets/88f35226-877f-4d66-b014-1c4432c934a0)
+![BitVsQuibit](https://github.com/user-attachments/assets/5b0f5b1e-e053-4d13-9f5b-e0b06b3c318f)
 
 _______________________________________________________________________________________________________________________________________________
 
