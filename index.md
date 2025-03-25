@@ -1,7 +1,7 @@
 ---
- title: Quantum Computing
- layout: home
- ---
+title: Quantum Computing
+layout: home
+---
 
 # <ins> **Quantum Computing** </ins>
 
