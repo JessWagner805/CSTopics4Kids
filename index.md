@@ -64,6 +64,8 @@ ________________________________________________________________________________
 
 ## How can a quibit be *both* a 1 AND a 0 *at the same time?* 🤯
 
+The idea of a quibit being both a 1 AND a 0 at the same time might seem confusing, so let's take a deeper look. <br/>   
+
 **TO DO**
 
 _______________________________________________________________________________________________________________________________________________
