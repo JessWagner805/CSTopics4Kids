@@ -50,21 +50,21 @@ ________________________________________________________________________________
 
 ## How does it work? 🤔
 
-What makes quantum computers special is something called ***quibits***. To understand quibits, let's first understand bits. <br/>
+What makes quantum computers special is something called ***qubits***. To understand qubits, let's first understand bits. <br/>
 The word ***bit*** is short for *binary digit*. As the name suggests, a bit consists of two digits: 0 and 1. The digit **0** means **off**, and **1** means **on**. Think of a light switch: when the switch is up, it's a 1, and when it's down, it's a 0. <br/> 
 When a programmer writes code, it gets converted to a series of 1s and 0s. The computer reads these bits and uses them to perform an action.
 
 ![image](https://github.com/user-attachments/assets/609b73a0-4cbb-46ed-a2a9-95761ea714ce)
 
-While a bit is either a 1 or a 0, a ***quibit*** can be *both* a 1 and a 0 at the same time! This special ability, called ***superposition***, allows qubits to perform many actions at once, instead of doing things step by step like regular bits. These quibits are made up of tiny particles like electrons, photons, and trapped ions. These particles give quibits their ability to be two things at once.
+While a bit is either a 1 or a 0, a ***qubit*** can be *both* a 1 and a 0 at the same time! This special ability, called ***superposition***, allows qubits to perform many actions at once, instead of doing things step by step like regular bits. These qubits are made up of tiny particles like electrons, photons, and trapped ions. These particles give qubits their ability to be two things at once.
 
 ![BitVsQuibit](https://github.com/user-attachments/assets/5b0f5b1e-e053-4d13-9f5b-e0b06b3c318f)
 
 _______________________________________________________________________________________________________________________________________________
 
-## How can a quibit be *both* a 1 AND a 0 *at the same time?* 🤯
+## How can a qubit be *both* a 1 AND a 0 *at the same time?* 🤯
 
-The idea of a quibit being both a 1 AND a 0 at the same time might seem confusing, so let's take a deeper look. <br/>   
+The idea of a qubit being both a 1 AND a 0 at the same time might seem confusing, so let's take a deeper look. <br/>   
 
 **TO DO**
 
