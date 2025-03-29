@@ -56,15 +56,16 @@ When a programmer writes code, it gets converted to a series of 1s and 0s. The c
 
 ![image](https://github.com/user-attachments/assets/609b73a0-4cbb-46ed-a2a9-95761ea714ce)
 
-While a bit is either a 1 or a 0, a ***qubit*** can be *both* a 1 and a 0 at the same time! This special ability, called ***superposition***, allows qubits to perform many actions at once, instead of doing things step by step like regular bits. These qubits are made up of tiny particles like electrons, photons, and trapped ions. These particles give qubits their ability to be two things at once.
+While a bit is either a 1 or a 0, a ***qubit*** is not just one or the other, but rather a *combination* of both states! This special ability, called ***superposition***, allows qubits to perform many actions at once, instead of doing things step by step like regular bits. These qubits are made up of tiny particles like electrons, photons, and trapped ions. These particles give qubits their ability to exist as a *combination* of states, rather than being limited to 1 or 0.
 
 ![BitVsQuibit](https://github.com/user-attachments/assets/5b0f5b1e-e053-4d13-9f5b-e0b06b3c318f)
 
 _______________________________________________________________________________________________________________________________________________
 
-## How can a qubit be *both* a 1 AND a 0 *at the same time?* 🤯
+## How can a qubit be *combination* a 1 AND a 0? 🤯
 
 The idea of a qubit being both a 1 AND a 0 at the same time might seem confusing, so let's take a deeper look. <br/>   
+Let's use the analogy of a rough and a smooth orb proposed by youtube creator "[The Science Asylum]".
 
 **TO DO**
 
@@ -95,6 +96,7 @@ ________________________________________________________________________________
 ## Resources
 - [Maze Visualization]
 - [GeeksforGeeks - Introduction to Quantum Computing]
+- [The Science Asylum]
 
    <br/>
 
@@ -102,6 +104,7 @@ ________________________________________________________________________________
 
 ----
 
+[The Science Asylum]: https://youtu.be/ZUipVyVOm-Y?si=pLrJMVRSz8mZtBFE
 [Maze Visualization]: https://youtube.com/shorts/JbkuqnqDKnE?si=6xV3VrsKE9a8E5w9
 [GeeksforGeeks - Introduction to Quantum Computing]: https://www.geeksforgeeks.org/introduction-quantum-computing/
 [CS Topics 4 Kids]: https://just-the-docs.github.io/just-the-docs/
